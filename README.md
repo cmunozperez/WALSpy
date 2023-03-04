@@ -40,4 +40,4 @@ Besides these "basic" functions, there are three that should be considered exper
 | search_correlations |	Searches for pairs of features in WALS in linear correlation |	`search_correlations()` |
 | predict_value |	Predicts the most likely value for a linguistic feature based on a set of values for other features |	`predict_value('85A', ['81A-3', '86A-2'])` |
 
-Chech the docstrings in walspy.py for further details.
+More details can be found in the docstrings of each function.
