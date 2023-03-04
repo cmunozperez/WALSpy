@@ -1,19 +1,30 @@
 ###WALSpy
 
 import pandas as pd
+from importlib import resources
 pd.options.mode.chained_assignment = None
 import math
 
-###you need to fix the id code for Nandi (it defaults to nan)
-###Those times in which you create a dictionary, you could use df[[A,B]].to_dict("something")
+if __name__ == '__main__':
+    import raw
+else:
+    from . import raw
 
-raw_idvalues = pd.read_csv(r"raw\domainelement.csv")
-raw_data = pd.read_csv(r"raw\value.csv")
-raw_id_list = pd.read_csv(r"raw\parameter.csv")
-raw_languages = pd.read_csv(r"raw\language.csv", na_filter = False)
-raw_lang_gen = pd.read_csv(r"raw\walslanguage.csv")
-raw_genus = pd.read_csv(r"raw\genus.csv")
-raw_family = pd.read_csv(r"raw\family.csv")
+
+#%%
+
+def open_csv(csv_file):
+    with resources.path(raw, csv_file) as df:
+        return pd.read_csv(df, na_filter = False)
+
+raw_idvalues = open_csv("domainelement.csv")
+raw_data = open_csv("value.csv")
+raw_id_list = open_csv("parameter.csv")
+raw_languages = open_csv("language.csv")
+raw_lang_gen = open_csv("walslanguage.csv")
+raw_genus = open_csv("genus.csv")
+raw_family = open_csv("family.csv")
+
 
 #%%
 
@@ -61,7 +72,7 @@ def feature_to_values(feat = None):
 
 def list_languages():
     """
-    Retrieves the list of all languages in WALS
+    Retrieves the list of all languages in WALS with their id codes
 
     Returns:
         pd.Series: a series of languages with id codes as indexes
@@ -76,7 +87,7 @@ def list_languages():
 
 def get_feature(stringa):
     """
-    Retrieves all values for a linguistic feature
+    Retrieves all languages with values for a given linguistic feature
     
     Args:
         stringa (str): a string specifying a feature (e.g., "83A")
@@ -95,6 +106,7 @@ def get_feature(stringa):
     relevant_data["lang_id"] = relevant_data["id"].apply(lambda x: x.split("-")[1])
     relevant_data["languages"] = relevant_data["lang_id"].map(languages)
     relevant_data.set_index("lang_id", inplace = True)
+    relevant_data = relevant_data[["languages", feature]]
     return feature, relevant_data
 
 #%%
@@ -126,7 +138,7 @@ def get_many_features(lista):
 
 def get_totals(stringa):
     """
-    Retrieves the number of languages exhibiting values for a certain feature
+    Retrieves the number of languages exhibiting values for a given feature
     
     Args:
         stringa (str): an id code for a feature (e.g., "4A") 
@@ -141,7 +153,7 @@ def get_totals(stringa):
 #%%
 def features_to_table(feat1, feat2):
     """
-    Retrieves a table with counts for the intersections of the values of two features
+    Retrieves a table with values for a feature as rows and values for another feature as columns
     
     Args:
         feat1 (str): an id feature in WALS (e.g., ("81A")
@@ -211,6 +223,22 @@ def get_genus(id_lang):
     genus_pk = genus_dict[pk]
     genus = raw_genus.name[raw_genus["pk"] == genus_pk].iloc[0]
     return genus
+#%%
+def get_macroarea(id_lang):
+    """
+    Retrieves the macroarea for a given language
+
+    Args:
+        id_lang (str): the id code for a language in WALS (e.g., 'arn')
+
+    Returns
+        string: the name of the macroarea corresponding to the language
+
+    """
+    pk = raw_languages.pk[raw_languages["id"] == id_lang].iloc[0]
+    mac_dict = dict(zip(raw_lang_gen["pk"],raw_lang_gen["macroarea"]))
+    macro_area = mac_dict[pk]
+    return macro_area
 
 #%%
 
@@ -234,7 +262,7 @@ def get_family(id_lang):
 
 def get_correlation(stringa, stringb):
     """
-    Applies a linear regression on two linguistic features.
+    Checks whether there is a linear correlation between two linguistic features
     
     Args:
         stringa (str): a string specifying a feature (e.g., "83A")
@@ -321,7 +349,7 @@ def predict_value(feature_to_predict, value_lst):
     """
     (Experimental)
     
-    Predicts the most likely value for a linguistic feature from a set of values for other features
+    Predicts the most likely value for a linguistic feature based on a set of values for other features
 
     Args:
         feature_to_predict (str): a feature to be predicted (e.g., "85A")
@@ -362,6 +390,10 @@ def predict_value(feature_to_predict, value_lst):
     description = raw_idvalues.name[raw_idvalues["id"] == return_value].iloc[0]
     accuracy = knn.score(X_test, y_test)
     
+    # from sklearn.metrics import confusion_matrix
+    # y_test_predicted = knn.predict(X_test)
+    # confusion = confusion_matrix(y_test, y_test_predicted)
+    # print(confusion)
     return return_value, description, accuracy
 
 
