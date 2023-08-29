@@ -262,23 +262,34 @@ def get_family(id_lang):
 
 def get_correlation(stringa, stringb):
     """
-    Checks whether there is a linear correlation between two linguistic features
+    Checks whether there is a Cramer's V correlation between two linguistic features
     
     Args:
         stringa (str): a string specifying a feature (e.g., "83A")
         stringb (str): a string specifying a feature (e.g., "85A")
 
     Returns:
-        tuple: a tuple with two floats, the correlation coefficient and the p-value
+        tuple: a tuple with two floats, the Cramer's V coefficient and the p-value
 
     """
     
     f1, df1 = get_feature(stringa)
     f2, df2 = get_feature(stringb)
     to_corr = pd.merge(df1, df2, how="inner", left_index=True, right_index=True)
-    table = to_corr.apply(lambda x: x.factorize()[0])#.corr()
-    from scipy import stats
-    return stats.pearsonr(table[f1], table[f2])
+    table = to_corr.apply(lambda x: x.factorize()[0])
+
+
+    from scipy.stats import chi2_contingency
+    import numpy as np
+    
+    contingency_table = pd.crosstab(table[f1], table[f2])
+    chi2, p, _, _ = chi2_contingency(contingency_table)
+    n = np.sum(contingency_table.values)
+    min_dim = min(contingency_table.shape) - 1
+    cramers_v = np.sqrt(chi2 / (n * min_dim))
+    
+    return cramers_v, p
+
 
 #%%
 
@@ -389,7 +400,7 @@ def predict_value(feature_to_predict, value_lst):
     return_value = f"{feature_to_predict}-{prediction}"
     description = raw_idvalues.name[raw_idvalues["id"] == return_value].iloc[0]
     accuracy = knn.score(X_test, y_test)
-    
+
     # from sklearn.metrics import confusion_matrix
     # y_test_predicted = knn.predict(X_test)
     # confusion = confusion_matrix(y_test, y_test_predicted)

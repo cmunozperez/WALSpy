@@ -1,0 +1,620 @@
+feature_x,feature_y,correlation,p-value
+Vowel Quality Inventories (2A),Obligatory Double Negation (143B),0.708368513996407,0.0194484637129352
+Consonant-Vowel Ratio (3A),Internally-headed relative clauses (90D),0.5156532443399037,0.03398548562295263
+Consonant-Vowel Ratio (3A),Cultural Categories of Languages with Identity of 'Finger' and 'Hand' (130B),0.5708400330542129,0.015404889725024169
+Voicing in Plosives and Fricatives (4A),Voicing and Gaps in Plosive Systems (5A),0.5358679952516668,6.356001717499223e-97
+Voicing in Plosives and Fricatives (4A),Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object (144W),0.5651941652604391,0.0013358330173432098
+Uvular Consonants (6A),SNegVO Order (144I),0.5846394973001241,4.6826379145438385e-16
+Glottalized Consonants (7A),Obligatory Double Negation (143B),0.7354284318375095,0.0005513712496406914
+Glottalized Consonants (7A),Internally-headed relative clauses (90D),0.5898620864007073,0.0019564646293622236
+Glottalized Consonants (7A),Cultural Categories of Languages with Identity of 'Finger' and 'Hand' (130B),0.5877139072192406,0.0027314668638692423
+Lateral Consonants (8A),Obligatory Double Negation (143B),0.639409003313049,0.037823719513409196
+Lateral Consonants (8A),"Languages with two Dominant Orders of Subject, Object, and Verb (81B)",0.5466475367288914,0.009212484892417876
+The Velar Nasal (9A),Verb-Initial with Preverbal Negative (144V),0.5535505572770185,0.020983359666556078
+Vowel Nasalization (10A),Nasal Vowels in West Africa (10B),1.0,1.1205592875074531e-07
+Front Rounded Vowels (11A),Obligatory Double Negation (143B),0.7554515674132066,0.005069362701225328
+Syllable Structure (12A),Number of Non-Derived Basic Colour Categories (132A),0.591520158145309,0.0008312212537614574
+Syllable Structure (12A),Optional Double Negation (143C),0.9029273380387691,0.020818682613414803
+Fixed Stress Locations (14A),Number of Non-Derived Basic Colour Categories (132A),0.646474510657066,0.010109173922512312
+Fixed Stress Locations (14A),Red and Yellow (135A),0.5339034651066707,0.006530875728445439
+Weight Factors in Weight-Sensitive Stress Systems (16A),Verb-Initial with Clause-Final Negative (144X),0.6974858324629157,0.005124777013067021
+Semantic Distinctions of Evidentiality (77A),Coding of Evidentiality (78A),0.8083126794702762,5.781494952454203e-111
+Coding of Evidentiality (78A),Correlative relative clauses (90E),1.0,0.04238011199168397
+Coding of Evidentiality (78A),Para-Linguistic Usages of Clicks (142A),0.5880435162852976,6.493864724989696e-05
+Verbal Number and Suppletion (80A),Green and Blue (134A),0.7177405625652734,0.016224836050121604
+Verbal Number and Suppletion (80A),SVONeg Order (144K),0.7006490497453707,4.6448706446930254e-06
+Verbal Number and Suppletion (80A),NegSVO Order (144H),0.9999999999999999,5.1090890280633316e-12
+"Order of Object, Oblique, and Verb (84A)",Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase (95A),0.5809304100582667,7.539369742153768e-114
+"Order of Object, Oblique, and Verb (84A)",Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun (96A),0.7182288393789252,1.8925946165463384e-151
+"Order of Object, Oblique, and Verb (84A)",Relationship between the Order of Object and Verb and the Order of Adjective and Noun (97A),0.6065014042371801,2.0483097173131796e-131
+"Order of Object, Oblique, and Verb (84A)",Obligatory Double Negation (143B),0.6608414611020079,0.02905192663666117
+"Order of Object, Oblique, and Verb (84A)",Number of Basic Colour Categories (133A),0.5428799266123354,0.03699579361343579
+"Order of Object, Oblique, and Verb (84A)","Languages with two Dominant Orders of Subject, Object, and Verb (81B)",0.7458367123128841,1.2015589647735372e-06
+"Order of Object, Oblique, and Verb (84A)",Optional Double Negation (143C),0.7978559231302818,0.0018603877866817243
+"Order of Object, Oblique, and Verb (84A)",The Position of Negative Morphemes in SOV Languages (144L),0.6367073170598331,2.0603285591148497e-24
+"Order of Object, Oblique, and Verb (84A)",Languages with different word order in negative clauses (144C),0.9999999999999999,0.011275793947331806
+"Order of Object, Oblique, and Verb (84A)",The Position of Negative Morphemes in Verb-Initial Languages (144T),0.6370747189544286,0.0037783669102306266
+"Order of Object, Oblique, and Verb (84A)","Order of Subject, Object and Verb (81A)",0.545046042013692,1.6560380081242673e-136
+"Order of Object, Oblique, and Verb (84A)",Order of Object and Verb (83A),0.8137933769025378,1.5182190654441963e-135
+Order of Adposition and Noun Phrase (85A),Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase (95A),0.6191522285857748,0.0
+Order of Adposition and Noun Phrase (85A),Multiple Negative Constructions in SOV Languages (144M),0.9321493651901451,0.006564241733678142
+Order of Adposition and Noun Phrase (85A),Position of Case Affixes (51A),0.5675149507742379,2.6964229655217643e-200
+Order of Adposition and Noun Phrase (85A),"Languages with two Dominant Orders of Subject, Object, and Verb (81B)",0.5031168563477842,1.5010107477148192e-05
+Order of Adposition and Noun Phrase (85A),Order of Object and Verb (83A),0.607816831882544,2.3736410208753434e-173
+Order of Adposition and Noun Phrase (85A),Order of Genitive and Noun (86A),0.5762305545010505,5.3462135513683405e-139
+Order of Numeral and Noun (89A),Number of Non-Derived Basic Colour Categories (132A),0.631755082689074,1.7564039584503532e-05
+Order of Numeral and Noun (89A),Number of Basic Colour Categories (133A),0.5030373693693928,0.013443365147993843
+Order of Numeral and Noun (89A),Green and Blue (134A),0.531791759835597,0.0016277852724833992
+Order of Relative Clause and Noun (90A),Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun (96A),0.6347966123839194,2.613045726586369e-264
+Order of Relative Clause and Noun (90A),Correlative relative clauses (90E),0.8864052604279183,0.0001477278404246662
+Order of Relative Clause and Noun (90A),Internally-headed relative clauses (90D),0.7071067811865475,6.682213479809935e-16
+Order of Relative Clause and Noun (90A),Multiple Negative Constructions in SVO Languages (144E),1.0,0.024040162779150803
+Order of Relative Clause and Noun (90A),Prenominal relative clauses (90B),1.0,3.2315009771603825e-40
+Order of Relative Clause and Noun (90A),Postnominal relative clauses (90C),0.7129314823977682,6.9224569221607954e-133
+Order of Relative Clause and Noun (90A),Adjoined relative clauses (90F),0.6875,0.02970018708710158
+Order of Relative Clause and Noun (90A),Languages with different word order in negative clauses (144C),0.9999999999999999,0.04534067443406041
+Order of Adverbial Subordinator and Clause (94A),Multiple Negative Constructions in SVO Languages (144E),0.9688639316269663,0.005790460692599395
+Order of Adverbial Subordinator and Clause (94A),The Position of Negative Morphemes in Verb-Initial Languages (144T),0.5501053460179347,0.00013271412488714655
+Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase (95A),Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun (96A),0.5566367327819245,1.171689441860065e-188
+Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase (95A),Relationship between the Order of Object and Verb and the Order of Adjective and Noun (97A),0.5597349730339606,2.1353760278086808e-266
+Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase (95A),Obligatory Double Negation (143B),0.5475819968958909,0.0010129486715572166
+Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase (95A),Multiple Negative Constructions in SOV Languages (144M),1.0,0.013996749258022518
+Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase (95A),Optional Double Negation in SVO languages (144G),0.8850612031567835,0.04061679776726569
+Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase (95A),Multiple Negative Constructions in SVO Languages (144E),0.9836957571614013,0.006880146150543538
+Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase (95A),Green and Blue (134A),0.555781540679695,1.338212322066826e-07
+Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase (95A),Obligatory Double Negation in SOV languages (144N),0.8257228238447705,0.0073371992977965565
+Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase (95A),"Languages with two Dominant Orders of Subject, Object, and Verb (81B)",0.740012869900955,4.642954862222864e-15
+Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase (95A),Optional Double Negation (143C),0.698703356173645,0.006291581567992833
+Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase (95A),Languages with different word order in negative clauses (144C),0.9123273918069488,0.017126973186654335
+Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase (95A),"Order of Subject, Object and Verb (81A)",0.5706733353210487,2.2836059785119366e-271
+Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase (95A),Order of Object and Verb (83A),0.8867863449923394,0.0
+Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase (95A),Order of Genitive and Noun (86A),0.5739956667238928,8.807931118326029e-133
+Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun (96A),Relationship between the Order of Object and Verb and the Order of Adjective and Noun (97A),0.6128186318232876,1.1444435022269709e-253
+Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun (96A),Correlative relative clauses (90E),0.7938841860374448,0.016486422507123937
+Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun (96A),Optional Double Negation in SVO languages (144G),0.9999999999999999,0.04994343362642841
+Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun (96A),Obligatory Double Negation in SVO languages (144F),1.0,0.0005858369694436061
+Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun (96A),Internally-headed relative clauses (90D),0.6640783086353597,1.1227795374630593e-07
+Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun (96A),Multiple Negative Constructions in SVO Languages (144E),0.9779384624625602,0.010935377557043704
+Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun (96A),Prenominal relative clauses (90B),0.7071067811865476,3.481424787224801e-36
+Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun (96A),"Languages with two Dominant Orders of Subject, Object, and Verb (81B)",0.6279779144388182,4.377837151183054e-09
+Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun (96A),The Position of Negative Morphemes in SOV Languages (144L),0.5481082649282961,3.459012699301337e-30
+Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun (96A),Languages with different word order in negative clauses (144C),1.0,0.033371054380710787
+Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun (96A),Cultural Categories of Languages with Identity of 'Finger' and 'Hand' (130B),0.6616386434550958,0.00028904064055693487
+Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun (96A),"Order of Subject, Object and Verb (81A)",0.5490371502061192,2.600113548659623e-190
+Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun (96A),Order of Object and Verb (83A),0.8160637045662784,4.1262279522061557e-243
+Relationship between the Order of Object and Verb and the Order of Adjective and Noun (97A),Correlative relative clauses (90E),0.6734181936152775,0.0396395835171237
+Relationship between the Order of Object and Verb and the Order of Adjective and Noun (97A),Obligatory Double Negation in SVO languages (144F),0.8611612750227113,0.0006849421648578757
+Relationship between the Order of Object and Verb and the Order of Adjective and Noun (97A),Multiple Negative Constructions in SVO Languages (144E),0.8939834166282669,0.009448690131384854
+Relationship between the Order of Object and Verb and the Order of Adjective and Noun (97A),Obligatory Double Negation in SOV languages (144N),0.8435892028835426,0.005680681739804419
+Relationship between the Order of Object and Verb and the Order of Adjective and Noun (97A),"Languages with two Dominant Orders of Subject, Object, and Verb (81B)",0.6484329624280473,5.213176906103527e-12
+Relationship between the Order of Object and Verb and the Order of Adjective and Noun (97A),The Position of Negative Morphemes in SOV Languages (144L),0.5617847583228519,1.156152923056545e-61
+Relationship between the Order of Object and Verb and the Order of Adjective and Noun (97A),Languages with different word order in negative clauses (144C),0.8999050282274568,0.018914568606358324
+Relationship between the Order of Object and Verb and the Order of Adjective and Noun (97A),Cultural Categories of Languages with Identity of 'Finger' and 'Hand' (130B),0.5839046431488503,0.000830701815037912
+Relationship between the Order of Object and Verb and the Order of Adjective and Noun (97A),"Order of Subject, Object and Verb (81A)",0.5629042057682828,1.8690311260160622e-304
+Relationship between the Order of Object and Verb and the Order of Adjective and Noun (97A),Order of Object and Verb (83A),0.839950013995644,0.0
+Relationship between the Order of Object and Verb and the Order of Adjective and Noun (97A),Order of Adjective and Noun (87A),0.7158750449099077,0.0
+Alignment of Case Marking of Full Noun Phrases (98A),Alignment of Case Marking of Pronouns (99A),0.794533992847208,1.8365292930021263e-95
+Alignment of Case Marking of Full Noun Phrases (98A),NegSVO Order (144H),0.5176334481989999,0.0026438747889763236
+Reciprocal Constructions (106A),Obligatory Double Negation (143B),0.8314794192830981,0.014487871910328843
+Reciprocal Constructions (106A),Number of Basic Colour Categories (133A),0.8321420055857759,0.014316078409015639
+Reciprocal Constructions (106A),Passive Constructions (107A),0.5399432460090434,5.060493271482352e-07
+Antipassive Constructions (108A),Verb-Initial with Preverbal Negative (144V),0.5320731640027073,0.014561114552565245
+Antipassive Constructions (108A),Productivity of the Antipassive Construction (108B),0.7208087245527098,8.500270138391552e-39
+Applicative Constructions (109A),Other Roles of Applied Objects (109B),0.6372663524851693,1.7911961076233947e-46
+Applicative Constructions (109A),NegSVO Order (144H),0.5766272253628165,0.0022856172908316285
+Periphrastic Causative Constructions (110A),Prenominal relative clauses (90B),0.8556534679079243,0.0006649402166181205
+Verb-Initial with Clause-Final Negative (144X),Verb-Initial with Preverbal Negative (144V),0.5613782171099113,7.23604354142926e-19
+Verb-Initial with Clause-Final Negative (144X),Multiple Negative Constructions in SVO Languages (144E),1.0,0.020256715056664387
+Verb-Initial with Clause-Final Negative (144X),Case Syncretism (28A),0.5537749241945382,0.04656605218622114
+Verb-Initial with Clause-Final Negative (144X),Occurrence of Nominal Plurality (34A),0.6160844188412482,0.026172401086191475
+Verb-Initial with Clause-Final Negative (144X),Ordinal Numerals (53A),1.0,4.690661344807303e-06
+Verb-Initial with Clause-Final Negative (144X),Numeral Bases (131A),0.5547001962252291,0.04006276687423819
+Verb-Initial with Clause-Final Negative (144X),The Position of Negative Morphemes in Verb-Initial Languages (144T),0.692245194825479,5.3694364618125116e-18
+Verb-Initial with Clause-Final Negative (144X),Suppletion in Imperatives and Hortatives (79B),1.0,5.043476625678875e-07
+Verb-Initial with Clause-Final Negative (144X),Asymmetrical Case-Marking (50A),0.5590169943749475,0.03548014005683207
+Verb-Initial with Clause-Final Negative (144X),Utterance Complement Clauses (128A),0.6885117594540956,0.01107062353142585
+Verb-Initial with Clause-Final Negative (144X),Postverbal Negative Morphemes (143F),0.5561865103932622,5.890159905783145e-18
+Verb-Initial with Clause-Final Negative (144X),SVNegO Order (144J),1.0,0.0003354626279025119
+Verb-Initial with Clause-Final Negative (144X),"Position of Negative Word With Respect to Subject, Object, and Verb (144A)",0.5841502380824565,7.543011362415296e-20
+Verb-Initial with Clause-Final Negative (144X),SNegVO Order (144I),0.8514693182963201,0.007920322383407018
+Verb-Initial with Clause-Final Negative (144X),SVONeg Order (144K),1.0,1.9130979702274063e-06
+Verb-Initial with Clause-Final Negative (144X),Position of negative words relative to beginning and end of clause and with respect to adjacency to verb (144B),0.7071067811865476,5.5016658774162515e-25
+Verb-Initial with Clause-Final Negative (144X),The Position of Negative Morphemes in SVO Languages (144D),1.0,0.0003354626279025119
+Verb-Initial with Clause-Final Negative (144X),Order of Negative Morpheme and Verb (143A),0.6054329762833464,1.4911130650341405e-24
+Correlative relative clauses (90E),Symmetric and Asymmetric Standard Negation (113A),1.0,0.0212264863029089
+Correlative relative clauses (90E),Para-Linguistic Usages of Clicks (142A),1.0,0.04042768199451278
+Correlative relative clauses (90E),The Position of Negative Morphemes in SOV Languages (144L),0.8698354767504924,0.010544306563736698
+Correlative relative clauses (90E),"Order of Subject, Object and Verb (81A)",0.7592566023652967,0.038588285791278765
+Correlative relative clauses (90E),Expression of Pronominal Subjects (101A),1.0,0.011921495938159686
+Verb-Initial with Preverbal Negative (144V),Multiple Negative Constructions in SVO Languages (144E),1.0,0.002792429332700914
+Verb-Initial with Preverbal Negative (144V),Distributive Numerals (54A),1.0,9.396274525870304e-05
+Verb-Initial with Preverbal Negative (144V),Negative Morphemes (112A),0.6640837547283472,2.288646692697161e-37
+Verb-Initial with Preverbal Negative (144V),Nominal and Locational Predication (119A),0.5694608979427072,0.007475012144006203
+Verb-Initial with Preverbal Negative (144V),Number of Non-Derived Basic Colour Categories (132A),0.8534606386520676,0.0076674641482017275
+Verb-Initial with Preverbal Negative (144V),Para-Linguistic Usages of Clicks (142A),0.6793662204867575,0.03952708164357856
+Verb-Initial with Preverbal Negative (144V),Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object (144W),0.62439830578064,1.7586739348917064e-40
+Verb-Initial with Preverbal Negative (144V),The Position of Negative Morphemes in Verb-Initial Languages (144T),0.7076881661824531,4.476226684603299e-49
+Verb-Initial with Preverbal Negative (144V),Suppletion in Imperatives and Hortatives (79B),0.7616933554106716,4.700242849129532e-05
+Verb-Initial with Preverbal Negative (144V),Possessive Classification (59A),0.5935763239321902,0.00977300239237751
+Verb-Initial with Preverbal Negative (144V),The Prohibitive (71A),0.5359857290585132,0.002332533169519444
+Verb-Initial with Preverbal Negative (144V),Comparative Constructions (121A),0.7025594235292439,0.0207414266578776
+Verb-Initial with Preverbal Negative (144V),Purpose Clauses (125A),0.5576059269303898,0.04211127708893497
+Verb-Initial with Preverbal Negative (144V),Reason Clauses (127A),0.5957022000220505,0.009161516940163976
+Verb-Initial with Preverbal Negative (144V),Postverbal Negative Morphemes (143F),0.812002119874558,6.457028139066903e-34
+Verb-Initial with Preverbal Negative (144V),SVNegO Order (144J),1.0,0.0011339842897853216
+Verb-Initial with Preverbal Negative (144V),"Position of Negative Word With Respect to Subject, Object, and Verb (144A)",0.5953189147235216,1.4141026207421088e-52
+Verb-Initial with Preverbal Negative (144V),SNegVO Order (144I),0.9013878188659973,0.0005880155597153392
+Verb-Initial with Preverbal Negative (144V),SVONeg Order (144K),1.0,1.631760033429256e-05
+Verb-Initial with Preverbal Negative (144V),Position of negative words relative to beginning and end of clause and with respect to adjacency to verb (144B),0.7288689868556626,4.5816193368432454e-24
+Verb-Initial with Preverbal Negative (144V),The Position of Negative Morphemes in SVO Languages (144D),1.0,4.062658881367847e-05
+Verb-Initial with Preverbal Negative (144V),Preverbal Negative Morphemes (143E),0.9530159055542128,9.264783406425097e-73
+Verb-Initial with Preverbal Negative (144V),Order of Negative Morpheme and Verb (143A),0.7565504727225945,6.566535611220845e-94
+Verb-Initial with Preverbal Negative (144V),Number of Possessive Nouns (58B),0.7151423434733617,0.0014246229067724886
+SONegV Order (144R),Obligatory Double Negation (143B),0.8017837257372731,0.005207267719273486
+SONegV Order (144R),Multiple Negative Constructions in SOV Languages (144M),1.0,4.973746983141292e-06
+SONegV Order (144R),Obligatory Double Negation in SOV languages (144N),1.0,8.977207619300013e-05
+SONegV Order (144R),SOVNeg Order (144S),0.5013876119108693,3.1774458895836865e-109
+SONegV Order (144R),Optional Double Negation (143C),0.8961724164467461,0.00197215950523161
+SONegV Order (144R),Optional Double Negation in SOV languages (144O),1.0,0.0013400897282556912
+SONegV Order (144R),The Position of Negative Morphemes in SOV Languages (144L),0.6073369763341849,7.664998959194673e-158
+SONegV Order (144R),Possessive Classification (59A),0.6291004721915525,1.5016702344596475e-13
+SONegV Order (144R),Comparative Constructions (121A),0.6358591171138593,7.414791603385512e-08
+SONegV Order (144R),"Position of Negative Word With Respect to Subject, Object, and Verb (144A)",0.5181283632128956,1.0056476820901745e-130
+SONegV Order (144R),SNegVO Order (144I),0.7346308866924529,0.021785645943015183
+SONegV Order (144R),Position of negative words relative to beginning and end of clause and with respect to adjacency to verb (144B),0.5669431407270907,5.467034350855225e-30
+SONegV Order (144R),Preverbal Negative Morphemes (143E),0.7540488460097822,7.886239513717218e-135
+SONegV Order (144R),Order of Negative Morpheme and Verb (143A),0.633044546219503,1.9087206445196794e-183
+Obligatory Double Negation (143B),Obligatory Double Negation in SVO languages (144F),1.0,2.0548951409180854e-37
+Obligatory Double Negation (143B),Fusion of Selected Inflectional Formatives (20A),1.0,0.035999404763428715
+Obligatory Double Negation (143B),Number of Genders (30A),0.8713548411865624,0.04582844985280129
+Obligatory Double Negation (143B),Occurrence of Nominal Plurality (34A),0.6976304979631492,0.03862108032423059
+Obligatory Double Negation (143B),Indefinite Articles (38A),0.5538080873483959,0.04282856701155993
+Obligatory Double Negation (143B),Politeness Distinctions in Pronouns (45A),1.0,0.0027655810684987098
+Obligatory Double Negation (143B),Position of Case Affixes (51A),0.5229983805207298,0.0003755064783226361
+Obligatory Double Negation (143B),The Perfect (68A),0.812403840463596,0.03287434694693719
+Obligatory Double Negation (143B),Position of Tense-Aspect Affixes (69A),0.5393205073359041,0.00011550628993329484
+Obligatory Double Negation (143B),Obligatory Double Negation in SOV languages (144N),1.0,3.5307026563753845e-27
+Obligatory Double Negation (143B),SOVNeg Order (144S),1.0,3.194195712946528e-13
+Obligatory Double Negation (143B),Reduplication (27A),0.8306328794311943,0.007129390390194654
+Obligatory Double Negation (143B),Position of Pronominal Possessive Affixes (57A),0.6971597378670693,9.369610164428307e-08
+Obligatory Double Negation (143B),Situational Possibility (74A),0.8858454843945541,0.014305041170793092
+Obligatory Double Negation (143B),Order of Object and Verb (83A),0.5327439582495695,0.00020209606727304951
+Obligatory Double Negation (143B),Order of Demonstrative and Noun (88A),0.6267274692363145,2.3732844437090984e-09
+Obligatory Double Negation (143B),Position of Interrogative Phrases in Content Questions (93A),0.622285773044293,0.005923248162647531
+Obligatory Double Negation (143B),Verbal Person Marking (102A),0.7140477739389464,0.013425821194500578
+Obligatory Double Negation (143B),Postverbal Negative Morphemes (143F),0.9434473378291796,1.0168550878288964e-42
+Obligatory Double Negation (143B),SVNegO Order (144J),0.7915074063828931,2.6755435089128432e-05
+Obligatory Double Negation (143B),SNegVO Order (144I),0.7669955982696421,1.6103619473044963e-06
+Obligatory Double Negation (143B),SVONeg Order (144K),0.8745081433317949,2.1935846273941398e-07
+Obligatory Double Negation (143B),Position of negative words relative to beginning and end of clause and with respect to adjacency to verb (144B),0.6565200061829941,0.01039290375522228
+Obligatory Double Negation (143B),Preverbal Negative Morphemes (143E),0.9596155082525633,8.651440550776997e-45
+Obligatory Double Negation (143B),Order of Negative Morpheme and Verb (143A),0.9999999999999999,2.9578961425707874e-18
+Obligatory Double Negation (143B),Minor morphological means of signaling negation (143G),0.7174191700022559,3.884111783611161e-13
+Multiple Negative Constructions in SOV Languages (144M),Multiple Negative Constructions in SVO Languages (144E),1.0,0.02501696121635148
+Multiple Negative Constructions in SOV Languages (144M),Coding of Nominal Plurality (33A),0.8546170899124181,0.009852626286945982
+Multiple Negative Constructions in SOV Languages (144M),Ordinal Numerals (53A),0.9999999999999999,0.04780710917143421
+Multiple Negative Constructions in SOV Languages (144M),Negative Morphemes (112A),0.8223160607112716,0.02082000858585105
+Multiple Negative Constructions in SOV Languages (144M),NegSOV Order (144P),0.9999999999999998,0.005240513506243202
+Multiple Negative Constructions in SOV Languages (144M),SOVNeg Order (144S),1.0,9.830976841642121e-08
+Multiple Negative Constructions in SOV Languages (144M),SNegOV Order (144Q),1.0,0.005240513506243162
+Multiple Negative Constructions in SOV Languages (144M),"Order of Subject, Object and Verb (81A)",1.0,0.0010849985517712305
+Multiple Negative Constructions in SOV Languages (144M),Order of Subject and Verb (82A),1.0000000000000002,0.0010151916508864566
+Multiple Negative Constructions in SOV Languages (144M),Order of Object and Verb (83A),1.0,0.0013543789540501599
+Multiple Negative Constructions in SOV Languages (144M),Order of Genitive and Noun (86A),0.8838834764831844,0.01201877763558485
+Multiple Negative Constructions in SOV Languages (144M),Order of Demonstrative and Noun (88A),0.8883647444557439,0.0019309982657573885
+Multiple Negative Constructions in SOV Languages (144M),Position of Interrogative Phrases in Content Questions (93A),0.9524404743304734,0.0023546335896746534
+Multiple Negative Constructions in SOV Languages (144M),Order of Person Markers on the Verb (104A),0.963932916061417,0.011186323001117734
+Multiple Negative Constructions in SOV Languages (144M),Polar Questions (116A),0.8166707754427024,0.014618025443965612
+Multiple Negative Constructions in SOV Languages (144M),Postverbal Negative Morphemes (143F),0.9999999999999999,7.814457702173317e-08
+Multiple Negative Constructions in SOV Languages (144M),"Position of Negative Word With Respect to Subject, Object, and Verb (144A)",1.0,8.431015307198078e-06
+Multiple Negative Constructions in SOV Languages (144M),Position of negative words relative to beginning and end of clause and with respect to adjacency to verb (144B),1.0,0.0010502997311105284
+Multiple Negative Constructions in SOV Languages (144M),Preverbal Negative Morphemes (143E),1.0,7.81445770217331e-08
+Multiple Negative Constructions in SOV Languages (144M),Order of Negative Morpheme and Verb (143A),1.0,8.809463620484897e-20
+Multiple Negative Constructions in SOV Languages (144M),Minor morphological means of signaling negation (143G),1.0,0.0010151916508864608
+Optional Double Negation in SVO languages (144G),Position of Case Affixes (51A),0.8818012981458833,0.004210863878776909
+Optional Double Negation in SVO languages (144G),Optional Double Negation (143C),1.0,4.458822739640079e-17
+Optional Double Negation in SVO languages (144G),"Order of Subject, Object and Verb (81A)",1.0,0.006221198178156622
+Optional Double Negation in SVO languages (144G),Order of Subject and Verb (82A),1.0,0.006221198178156622
+Optional Double Negation in SVO languages (144G),Order of Object and Verb (83A),1.0,0.0062211981781565935
+Optional Double Negation in SVO languages (144G),Postverbal Negative Morphemes (143F),1.0,0.0062211981781565935
+Optional Double Negation in SVO languages (144G),SVNegO Order (144J),1.0,4.131635362026789e-07
+Optional Double Negation in SVO languages (144G),"Position of Negative Word With Respect to Subject, Object, and Verb (144A)",1.0,0.0002712205586857841
+Optional Double Negation in SVO languages (144G),SNegVO Order (144I),1.0,5.311319728680945e-09
+Optional Double Negation in SVO languages (144G),SVONeg Order (144K),1.0,0.00021241428506430437
+Optional Double Negation in SVO languages (144G),Position of negative words relative to beginning and end of clause and with respect to adjacency to verb (144B),1.0,2.4904676441529268e-06
+Optional Double Negation in SVO languages (144G),Preverbal Negative Morphemes (143E),1.0,1.3031620821171804e-05
+Optional Double Negation in SVO languages (144G),NegSVO Order (144H),0.9999999999999999,0.0001225561851281143
+Optional Double Negation in SVO languages (144G),Minor morphological means of signaling negation (143G),1.0,0.0062211981781565935
+Obligatory Double Negation in SVO languages (144F),Position of Case Affixes (51A),0.8299679519998355,0.02634681313648491
+Obligatory Double Negation in SVO languages (144F),"Order of Subject, Object and Verb (81A)",0.9999999999999999,8.550688539316902e-05
+Obligatory Double Negation in SVO languages (144F),Order of Subject and Verb (82A),1.0,7.593263229199785e-08
+Obligatory Double Negation in SVO languages (144F),Order of Object and Verb (83A),0.8632977579421393,0.00030388463109557086
+Obligatory Double Negation in SVO languages (144F),Order of Genitive and Noun (86A),0.8663272336807802,0.002218817047396546
+Obligatory Double Negation in SVO languages (144F),Order of Demonstrative and Noun (88A),0.7978704294697367,0.00987295846504039
+Obligatory Double Negation in SVO languages (144F),Position of Interrogative Phrases in Content Questions (93A),0.9697343014375718,0.006962799262526579
+Obligatory Double Negation in SVO languages (144F),Expression of Pronominal Subjects (101A),0.8900491559458948,0.028437536344906218
+Obligatory Double Negation in SVO languages (144F),Postverbal Negative Morphemes (143F),1.0,7.576688572204176e-11
+Obligatory Double Negation in SVO languages (144F),SVNegO Order (144J),1.0,4.791357300338064e-07
+Obligatory Double Negation in SVO languages (144F),"Position of Negative Word With Respect to Subject, Object, and Verb (144A)",1.0,7.593263229199785e-08
+Obligatory Double Negation in SVO languages (144F),SNegVO Order (144I),1.0,1.8864244199576087e-09
+Obligatory Double Negation in SVO languages (144F),SVONeg Order (144K),0.9999999999999999,4.791357300338096e-07
+Obligatory Double Negation in SVO languages (144F),Position of negative words relative to beginning and end of clause and with respect to adjacency to verb (144B),0.9999999999999999,0.0002637931374503845
+Obligatory Double Negation in SVO languages (144F),Preverbal Negative Morphemes (143E),1.0,7.576688572204176e-11
+Obligatory Double Negation in SVO languages (144F),Order of Negative Morpheme and Verb (143A),1.0,8.550688539316901e-05
+Obligatory Double Negation in SVO languages (144F),NegSVO Order (144H),0.9999999999999999,0.00022147663824878433
+Obligatory Double Negation in SVO languages (144F),Minor morphological means of signaling negation (143G),1.0,8.550688539316901e-05
+Internally-headed relative clauses (90D),The Associative Plural (36A),0.8498365855987975,0.0025280685082316166
+Internally-headed relative clauses (90D),Position of Case Affixes (51A),0.6474685627513154,1.6489591792180906e-07
+Internally-headed relative clauses (90D),Conjunctions and Universal Quantifiers (56A),0.7453559924999299,0.016349087064448667
+Internally-headed relative clauses (90D),Nominal and Verbal Conjunction (64A),0.7147563384655106,0.0018723725167264474
+Internally-headed relative clauses (90D),Predicative Adjectives (118A),0.6037125677579228,0.032644915737438086
+Internally-headed relative clauses (90D),Relativization on Subjects (122A),0.689202437604511,0.04085091588414476
+Internally-headed relative clauses (90D),Prenominal relative clauses (90B),0.8952380952380953,2.6805030830563727e-05
+Internally-headed relative clauses (90D),Postnominal relative clauses (90C),0.6875,0.02970018708710158
+Internally-headed relative clauses (90D),Asymmetrical Case-Marking (50A),0.5086502444952438,0.04252383958868708
+Multiple Negative Constructions in SVO Languages (144E),Ordinal Numerals (53A),0.9219544457292888,0.04596042303895271
+Multiple Negative Constructions in SVO Languages (144E),Action Nominal Constructions (62A),0.9999999999999999,0.048097703274997745
+Multiple Negative Constructions in SVO Languages (144E),Tea (138A),0.9999999999999999,0.02925268807696108
+Multiple Negative Constructions in SVO Languages (144E),Postnominal relative clauses (90C),1.0,0.024040162779150803
+Multiple Negative Constructions in SVO Languages (144E),"Languages with two Dominant Orders of Subject, Object, and Verb (81B)",1.0,0.007616573178147816
+Multiple Negative Constructions in SVO Languages (144E),The Position of Negative Morphemes in Verb-Initial Languages (144T),1.0,1.6140359380862018e-06
+Multiple Negative Constructions in SVO Languages (144E),Definite Articles (37A),0.9354143466934852,0.011327939303762895
+Multiple Negative Constructions in SVO Languages (144E),"Order of Subject, Object and Verb (81A)",1.0,0.00038006574876789823
+Multiple Negative Constructions in SVO Languages (144E),Order of Object and Verb (83A),0.9795896894087645,0.0014598747229306855
+Multiple Negative Constructions in SVO Languages (144E),Order of Demonstrative and Noun (88A),0.8621962380694875,0.04633752527506936
+Multiple Negative Constructions in SVO Languages (144E),Polar Questions (116A),0.9697117659855988,0.003235745458478072
+Multiple Negative Constructions in SVO Languages (144E),Postverbal Negative Morphemes (143F),0.9999999999999999,0.0003800657487678957
+Multiple Negative Constructions in SVO Languages (144E),SVNegO Order (144J),1.0,0.00027426544305336444
+Multiple Negative Constructions in SVO Languages (144E),"Position of Negative Word With Respect to Subject, Object, and Verb (144A)",1.0,0.00038006574876789823
+Multiple Negative Constructions in SVO Languages (144E),SNegVO Order (144I),0.9999999999999999,0.0007340103835415436
+Multiple Negative Constructions in SVO Languages (144E),SVONeg Order (144K),1.0,0.006417832715048443
+Multiple Negative Constructions in SVO Languages (144E),Position of negative words relative to beginning and end of clause and with respect to adjacency to verb (144B),0.9999999999999999,0.0010544670440019465
+Multiple Negative Constructions in SVO Languages (144E),Preverbal Negative Morphemes (143E),1.0,2.0767436290463063e-05
+Multiple Negative Constructions in SVO Languages (144E),Order of Negative Morpheme and Verb (143A),1.0,2.5234686480753627e-10
+Multiple Negative Constructions in SVO Languages (144E),NegSVO Order (144H),1.0000000000000002,0.01081171882665264
+Rhythm Types (17A),Inflectional Synthesis of the Verb (22A),0.5253643920058522,2.1535239263468012e-07
+Rhythm Types (17A),Cultural Categories of Languages with Identity of 'Finger' and 'Hand' (130B),0.5592257385922209,0.01241402666592715
+Rhythm Types (17A),The Position of Negative Morphemes in SVO Languages (144D),0.6310685163986786,1.977445675685124e-05
+Absence of Common Consonants (18A),Number of Non-Derived Basic Colour Categories (132A),0.6120251873346169,2.4482663500490675e-05
+Absence of Common Consonants (18A),Red and Yellow (135A),0.6637158906806733,1.4526455747634691e-08
+Absence of Common Consonants (18A),"Languages with two Dominant Orders of Subject, Object, and Verb (81B)",0.7437237390321759,0.0002229721618516351
+Presence of Uncommon Consonants (19A),Number of Non-Derived Basic Colour Categories (132A),0.5096602304899063,0.0019504188444530032
+Presence of Uncommon Consonants (19A),Green and Blue (134A),0.6130514665113492,2.659811001171084e-06
+Presence of Uncommon Consonants (19A),Optional Double Negation (143C),0.8753306253660406,0.0053906727727554855
+Fusion of Selected Inflectional Formatives (20A),Position of Tense-Aspect Affixes (69A),0.6113816133073343,5.053743681997965e-35
+Fusion of Selected Inflectional Formatives (20A),Relativization on Subjects (122A),0.5966052721268204,1.2468734419927532e-14
+Fusion of Selected Inflectional Formatives (20A),Number of Basic Colour Categories (133A),0.9999999999999999,0.03478778050624187
+Fusion of Selected Inflectional Formatives (20A),SOVNeg Order (144S),0.5146858836405174,0.00033541959370844167
+Fusion of Selected Inflectional Formatives (20A),The Position of Negative Morphemes in SOV Languages (144L),0.5273106363367881,0.001381733930338161
+Fusion of Selected Inflectional Formatives (20A),Zero Marking of A and P Arguments (25B),0.5365224517107132,6.651424568918143e-08
+Exponence of Selected Inflectional Formatives (21A),Adjectives without Nouns (61A),0.5713505460613038,1.78919394586121e-07
+Exponence of Selected Inflectional Formatives (21A),The Position of Negative Morphemes in SVO Languages (144D),0.7096152303565841,9.003086699440902e-05
+Locus of Marking in the Clause (23A),Locus of Marking: Whole-language Typology (25A),0.5997308902926619,1.5688826103731285e-62
+Locus of Marking in the Clause (23A),The Past Tense (66A),0.6433181625419259,9.091438545679361e-26
+Locus of Marking in the Clause (23A),Number of Basic Colour Categories (133A),0.7685720186461416,0.03624077565324447
+Locus of Marking in the Clause (23A),Zero Marking of A and P Arguments (25B),0.5790581290985708,4.3423090397027e-16
+Locus of Marking in Possessive Noun Phrases (24A),Locus of Marking: Whole-language Typology (25A),0.6233530166826688,3.2111138666123033e-68
+Locus of Marking in Possessive Noun Phrases (24A),Number of Non-Derived Basic Colour Categories (132A),0.6320061852401591,0.03468750350484153
+Locus of Marking in Possessive Noun Phrases (24A),Number of Basic Colour Categories (133A),0.9414688716912717,0.0026634007042494693
+Locus of Marking in Possessive Noun Phrases (24A),Red and Yellow (135A),0.5900968443520824,0.01858726334752454
+Locus of Marking: Whole-language Typology (25A),Red and Yellow (135A),0.769309258162072,0.0026337666893355613
+Locus of Marking: Whole-language Typology (25A),Zero Marking of A and P Arguments (25B),0.6203552448398475,1.5490208509537586e-18
+Prefixing vs. Suffixing in Inflectional Morphology (26A),Position of Tense-Aspect Affixes (69A),0.5109531060267265,9.092323971077502e-191
+Prefixing vs. Suffixing in Inflectional Morphology (26A),Optional Double Negation (143C),0.6375896921311099,0.03786471664831227
+Syncretism in Verbal Person/Number Marking (29A),Inclusive/Exclusive Distinction in Verbal Inflection (40A),0.5669500627106324,1.9047987980878125e-23
+Syncretism in Verbal Person/Number Marking (29A),Alignment of Verbal Person Marking (100A),0.5207446353571232,2.9663487823824966e-18
+Syncretism in Verbal Person/Number Marking (29A),Expression of Pronominal Subjects (101A),0.5330032834832493,2.0144180619277893e-16
+Syncretism in Verbal Person/Number Marking (29A),Verbal Person Marking (102A),0.5415182800492369,3.646594396635044e-21
+Syncretism in Verbal Person/Number Marking (29A),Third Person Zero of Verbal Person Marking (103A),0.558963797598174,1.5893996169238115e-21
+Number of Genders (30A),Sex-based and Non-sex-based Gender Systems (31A),0.7920044584919093,6.91970888881769e-65
+Number of Genders (30A),Systems of Gender Assignment (32A),0.7701594354903933,3.7717872754742175e-61
+Sex-based and Non-sex-based Gender Systems (31A),Systems of Gender Assignment (32A),0.7101529673023554,6.71848308821505e-55
+Sex-based and Non-sex-based Gender Systems (31A),Number of Basic Colour Categories (133A),1.0,0.000856641210775301
+Sex-based and Non-sex-based Gender Systems (31A),Gender Distinctions in Independent Personal Pronouns (44A),0.6338149166681414,1.1856893516574536e-28
+Systems of Gender Assignment (32A),Number of Basic Colour Categories (133A),0.8185352771872448,0.0283209182426965
+Systems of Gender Assignment (32A),Gender Distinctions in Independent Personal Pronouns (44A),0.6105522851741086,2.194611821869696e-26
+Coding of Nominal Plurality (33A),Green and Blue (134A),0.5480175871831752,0.00019527241344387652
+Coding of Nominal Plurality (33A),Cultural Categories of Languages with Identity of 'Finger' and 'Hand' (130B),0.6046454041955622,0.009368615253198497
+Occurrence of Nominal Plurality (34A),Green and Blue (134A),0.7496030695673291,0.023043101774884202
+Occurrence of Nominal Plurality (34A),Red and Yellow (135A),0.8703882797784893,0.0014760304330589857
+Occurrence of Nominal Plurality (34A),The Position of Negative Morphemes in Verb-Initial Languages (144T),0.7382680289296581,0.001375498116050175
+Occurrence of Nominal Plurality (34A),Cultural Categories of Languages with Identity of 'Finger' and 'Hand' (130B),1.0,0.018315638888734186
+Plurality in Independent Personal Pronouns (35A),Number of Non-Derived Basic Colour Categories (132A),0.8790490729915326,0.0161694475789431
+Plurality in Independent Personal Pronouns (35A),Red and Yellow (135A),1.0,0.009283244336110639
+Plurality in Independent Personal Pronouns (35A),NegSVO Order (144H),0.5096294950473551,0.004729220919383728
+Indefinite Articles (38A),Number of Basic Colour Categories (133A),0.67795502496332,0.007373496371558151
+Indefinite Articles (38A),The Position of Negative Morphemes in Verb-Initial Languages (144T),0.5326430510309517,0.021404894555824925
+Indefinite Articles (38A),Definite Articles (37A),0.5797755713606125,2.7457639174681598e-127
+Inclusive/Exclusive Distinction in Independent Pronouns (39A),Adjectives without Nouns (61A),0.5234966134341582,3.006227041612602e-05
+Inclusive/Exclusive Distinction in Independent Pronouns (39A),Number of Non-Derived Basic Colour Categories (132A),0.7328855382126271,0.0046202050284295006
+Inclusive/Exclusive Distinction in Independent Pronouns (39A),Number of Basic Colour Categories (133A),0.9231861823449955,0.0024155772281589257
+Inclusive/Exclusive Distinction in Independent Pronouns (39A),Red and Yellow (135A),1.0,0.0005530843701478327
+Inclusive/Exclusive Distinction in Verbal Inflection (40A),Adjectives without Nouns (61A),0.5584033370912049,6.488745728079106e-08
+Distance Contrasts in Demonstratives (41A),The Position of Negative Morphemes in SVO Languages (144D),0.5199223249543057,0.0027622168179853137
+Third Person Pronouns and Demonstratives (43A),Number of Non-Derived Basic Colour Categories (132A),0.9036961141150639,0.006747670026066903
+Third Person Pronouns and Demonstratives (43A),Green and Blue (134A),0.85146931829632,0.042209796564609325
+Third Person Pronouns and Demonstratives (43A),The Position of Negative Morphemes in Verb-Initial Languages (144T),0.7496030695673291,0.027716692289031925
+Third Person Pronouns and Demonstratives (43A),Cultural Categories of Languages with Identity of 'Finger' and 'Hand' (130B),0.8100925873009824,0.015160611952528229
+Intensifiers and Reflexive Pronouns (47A),Distributive Numerals (54A),0.5251014559039126,0.001868621278226482
+Intensifiers and Reflexive Pronouns (47A),Comparative Constructions (121A),0.60336986678219,0.00014110292416850845
+Position of Case Affixes (51A),Optional Double Negation (143C),0.6618233934227715,0.0007418890979626002
+Ordinal Numerals (53A),Number of Non-Derived Basic Colour Categories (132A),0.7406828681096324,0.01762656881440608
+Ordinal Numerals (53A),Green and Blue (134A),0.8079466429027216,0.044087126881217915
+Ordinal Numerals (53A),Comparative Constructions (121A),0.5283559910112987,8.867749975695914e-08
+Ordinal Numerals (53A),M in First Person Singular (136B),0.5498385714215352,5.8603475664934606e-05
+Distributive Numerals (54A),The Position of Negative Morphemes in Verb-Initial Languages (144T),0.6569312307809005,0.012710036233889058
+Distributive Numerals (54A),Comparative Constructions (121A),0.5520363789810621,9.398805577982975e-05
+Distributive Numerals (54A),The Position of Negative Morphemes in SVO Languages (144D),0.5014176631508637,0.0319875629829309
+Distributive Numerals (54A),NegSVO Order (144H),0.7170213395212891,0.00031803020053762743
+"Genitives, Adjectives and Relative Clauses (60A)",Number of Basic Colour Categories (133A),0.8346656017032609,0.026857773508765642
+"Genitives, Adjectives and Relative Clauses (60A)",SOVNeg Order (144S),0.5418274995859749,0.003076155610533121
+"Genitives, Adjectives and Relative Clauses (60A)",Zero Marking of A and P Arguments (25B),0.526097820672359,0.002958171254372869
+Adjectives without Nouns (61A),Para-Linguistic Usages of Clicks (142A),0.5849301128169749,0.003736306334380735
+Adjectives without Nouns (61A),Purpose Clauses (125A),0.5186714390906781,0.0046460792735454875
+Adjectives without Nouns (61A),SVONeg Order (144K),0.5158211207108804,0.010778598665181964
+Action Nominal Constructions (62A),Tea (138A),0.5290135643170236,0.0013443958643059417
+Action Nominal Constructions (62A),Prenominal relative clauses (90B),0.6013102976617597,0.016294312998153357
+Action Nominal Constructions (62A),SOVNeg Order (144S),0.5126417660115424,5.597138999270475e-05
+Action Nominal Constructions (62A),Purpose Clauses (125A),0.5034857361171515,0.00014442394703042418
+Action Nominal Constructions (62A),NegSVO Order (144H),0.7435018702437142,0.0004041225669249228
+Action Nominal Constructions (62A),M in First Person Singular (136B),0.5044113236512923,0.0010631433764915056
+Nominal and Verbal Conjunction (64A),The Position of Negative Morphemes in Verb-Initial Languages (144T),0.6412400573800823,0.03196186478757488
+The Past Tense (66A),Nominal and Locational Predication (119A),0.5527260809183034,1.9141917672974274e-08
+The Past Tense (66A),Number of Basic Colour Categories (133A),0.7081971546656646,0.04269111949136209
+The Past Tense (66A),The Position of Negative Morphemes in Verb-Initial Languages (144T),0.7231373933038979,0.007782579805083545
+The Past Tense (66A),The Position of Negative Morphemes in SVO Languages (144D),0.5153654166558386,0.04915885461532998
+The Future Tense (67A),SNegVO Order (144I),0.5919716125127388,0.0015697581907668336
+The Future Tense (67A),The Position of Negative Morphemes in SVO Languages (144D),0.6824985463752035,0.0016962492384773522
+The Perfect (68A),SOVNeg Order (144S),0.6113312909179106,5.990109637521163e-08
+The Perfect (68A),The Position of Negative Morphemes in Verb-Initial Languages (144T),0.7417238846010382,0.004173316166373624
+The Perfect (68A),The Position of Negative Morphemes in SVO Languages (144D),0.5044315888052225,0.03717839201131408
+The Optative (73A),Number of Non-Derived Basic Colour Categories (132A),0.6793662204867575,0.03952708164357856
+The Optative (73A),SVNegO Order (144J),0.7037764356815838,8.914705461365636e-08
+Negative Morphemes (112A),The Position of Negative Morphemes in Object-Initial Languages (144Y),1.0,0.03291530895654775
+Negative Morphemes (112A),SOVNeg Order (144S),0.6188147759895373,4.337313038461683e-142
+Negative Morphemes (112A),Optional Double Negation (143C),0.8007371962066013,1.921721186124189e-09
+Negative Morphemes (112A),The Position of Negative Morphemes in SOV Languages (144L),0.6834605490258233,2.139911213499381e-180
+Negative Morphemes (112A),The Position of Negative Morphemes in Verb-Initial Languages (144T),0.7175111584357913,5.245147656734496e-23
+Negative Morphemes (112A),"Position of Negative Word With Respect to Subject, Object, and Verb (144A)",0.6499211450412781,0.0
+Negative Morphemes (112A),SNegVO Order (144I),0.5553959237701253,5.522266910603484e-99
+Negative Morphemes (112A),The Position of Negative Morphemes in SVO Languages (144D),0.6400013836030267,3.039561563310688e-134
+Negative Morphemes (112A),Order of Negative Morpheme and Verb (143A),0.6956639041521131,0.0
+Symmetric and Asymmetric Standard Negation (113A),Subtypes of Asymmetric Standard Negation (114A),0.7800843811394839,5.325948777261778e-70
+Negative Indefinite Pronouns and Predicate Negation (115A),Exponence of Tense-Aspect-Mood Inflection (21B),0.5142884322317504,4.1847228782365934e-07
+Predicative Adjectives (118A),Nominal and Locational Predication (119A),0.5979200684288201,1.081587642941269e-30
+Nominal and Locational Predication (119A),"Languages with two Dominant Orders of Subject, Object, and Verb (81B)",0.7297037292405271,0.048041298045314734
+Nominal and Locational Predication (119A),Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object (144W),0.5641743373522313,0.0010665856829866383
+Nominal and Locational Predication (119A),The Position of Negative Morphemes in Verb-Initial Languages (144T),0.7628528327563872,0.009044403517311127
+Relativization on Subjects (122A),Relativization on Obliques (123A),0.7813054590339614,2.8746587251936515e-37
+Relativization on Subjects (122A),Prenominal relative clauses (90B),0.627162924074226,0.006536489645248193
+Relativization on Obliques (123A),Number of Non-Derived Basic Colour Categories (132A),0.7483314773547882,0.03655714265235748
+Relativization on Obliques (123A),Number of Basic Colour Categories (133A),0.7807200583588266,0.03816526154977168
+Relativization on Obliques (123A),Red and Yellow (135A),0.9999999999999999,0.0073831605053597885
+Relativization on Obliques (123A),Prenominal relative clauses (90B),0.7140055472954167,0.006130427394639476
+Relativization on Obliques (123A),Comparative Constructions (121A),0.5071939926786629,0.00029296832927231764
+Relativization on Obliques (123A),M in First Person Singular (136B),0.6136329966237593,1.8875267965417733e-05
+'Want' Complement Subjects (124A),Number of Non-Derived Basic Colour Categories (132A),0.5674035073283901,0.04100189705548054
+'Want' Complement Subjects (124A),Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object (144W),0.6963106238227914,0.0024330247872807378
+Hand and Arm (129A),Number of Basic Colour Categories (133A),0.5237228253714072,0.032995858370699106
+Finger and Hand (130A),Green and Blue (134A),0.5844673362844689,0.005023389421615114
+Finger and Hand (130A),Red and Yellow (135A),0.5576548282921766,0.0016241790869562908
+Finger and Hand (130A),Tea (138A),0.5000077256468303,2.560269903730455e-06
+Finger and Hand (130A),The Position of Negative Morphemes in SVO Languages (144D),0.6378010061584962,8.352797353700762e-05
+Number of Non-Derived Basic Colour Categories (132A),Green and Blue (134A),0.551132056321616,1.0625860120025056e-27
+Number of Non-Derived Basic Colour Categories (132A),Red and Yellow (135A),0.5050098237881626,5.4681194207822545e-15
+Number of Non-Derived Basic Colour Categories (132A),Para-Linguistic Usages of Clicks (142A),0.7126096406869613,0.03787633607977117
+Number of Non-Derived Basic Colour Categories (132A),Numeral Bases (131A),0.7639880142714369,0.002591837733706626
+Number of Non-Derived Basic Colour Categories (132A),Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object (144W),0.8514693182963201,0.0016158823665800427
+Number of Non-Derived Basic Colour Categories (132A),Gender Distinctions in Independent Personal Pronouns (44A),0.5811230185631633,0.01334368567188442
+Number of Non-Derived Basic Colour Categories (132A),Obligatory Possessive Inflection (58A),0.6846531968814576,0.046661983283751964
+Number of Non-Derived Basic Colour Categories (132A),Epistemic Possibility (75A),0.7270291799999697,0.03264427209218141
+Number of Non-Derived Basic Colour Categories (132A),Alignment of Verbal Person Marking (100A),0.6286796443643577,0.0009133637063345296
+Number of Non-Derived Basic Colour Categories (132A),Expression of Pronominal Subjects (101A),0.6346251505624043,0.0028618216235347014
+Number of Non-Derived Basic Colour Categories (132A),Passive Constructions (107A),0.8003981138390699,0.002997864268372543
+Number of Non-Derived Basic Colour Categories (132A),N-M Pronouns (137A),0.8451542547285166,0.009620431242729606
+Number of Basic Colour Categories (133A),Numeral Bases (131A),0.9231861823449956,0.007970684765211023
+Number of Basic Colour Categories (133A),Reduplication (27A),0.7259318430929494,0.006758348201070881
+Number of Basic Colour Categories (133A),Gender Distinctions in Independent Personal Pronouns (44A),0.6726834712575094,0.01282037486897322
+Number of Basic Colour Categories (133A),Possessive Classification (59A),0.9258200997725514,0.003752002283386311
+Number of Basic Colour Categories (133A),Passive Constructions (107A),0.8715591687403585,0.004179902781444015
+Green and Blue (134A),Red and Yellow (135A),0.8151169238662406,2.548870853478151e-53
+Green and Blue (134A),Gender Distinctions in Independent Personal Pronouns (44A),0.6017500931476244,0.0008682845766850813
+Green and Blue (134A),Obligatory Possessive Inflection (58A),1.0,0.0007067423923370282
+Green and Blue (134A),Imperative-Hortative Systems (72A),0.5079721589671172,0.04383720782980987
+Green and Blue (134A),Epistemic Possibility (75A),0.5960185359853293,0.041335721956091816
+Green and Blue (134A),Alignment of Verbal Person Marking (100A),0.6226144951121919,0.002572227944664027
+Green and Blue (134A),Expression of Pronominal Subjects (101A),0.5935256753272998,0.004212587745120127
+Green and Blue (134A),Order of Person Markers on the Verb (104A),0.6711026656770095,9.767204745415508e-05
+Green and Blue (134A),Passive Constructions (107A),0.6957923426763075,0.0056196637397026095
+Green and Blue (134A),N-M Pronouns (137A),0.7559289460184544,0.010343173196618252
+Red and Yellow (135A),Para-Linguistic Usages of Clicks (142A),1.0,0.006737946999085469
+Red and Yellow (135A),Numeral Bases (131A),1.0,0.0005530843701478327
+Red and Yellow (135A),Zero Marking of A and P Arguments (25B),0.6883382335810817,0.017820942784171432
+Red and Yellow (135A),Gender Distinctions in Independent Personal Pronouns (44A),0.5783313238805294,0.0019760128297088807
+Red and Yellow (135A),Number of Cases (49A),1.0,0.009283244336110639
+Red and Yellow (135A),Obligatory Possessive Inflection (58A),0.6846531968814576,0.018604068232532935
+Red and Yellow (135A),Expression of Pronominal Subjects (101A),0.6490734136415514,0.0032703748263660072
+Red and Yellow (135A),Order of Person Markers on the Verb (104A),0.7599342076785331,1.8887556113675124e-06
+Tea (138A),Prenominal relative clauses (90B),0.5704620451629862,7.69223341570358e-05
+Tea (138A),The Position of Negative Morphemes in SOV Languages (144L),0.632700129754241,0.0013669075933572684
+Para-Linguistic Usages of Clicks (142A),Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object (144W),0.6793662204867575,0.03952708164357856
+Para-Linguistic Usages of Clicks (142A),Comparative Constructions (121A),0.7055639679153923,7.185506434525132e-06
+Prenominal relative clauses (90B),Comparative Constructions (121A),0.6821127309893709,6.220428980994711e-06
+Prenominal relative clauses (90B),The Position of Negative Morphemes in SVO Languages (144D),1.0,0.04601170568923136
+The Position of Negative Morphemes in Object-Initial Languages (144Y),"Order of Subject, Object and Verb (81A)",1.0,0.043298315941865825
+The Position of Negative Morphemes in Object-Initial Languages (144Y),Postverbal Negative Morphemes (143F),1.0,0.043298315941865825
+The Position of Negative Morphemes in Object-Initial Languages (144Y),"Position of Negative Word With Respect to Subject, Object, and Verb (144A)",1.0,0.0010682661779603812
+The Position of Negative Morphemes in Object-Initial Languages (144Y),Preverbal Negative Morphemes (143E),1.0,0.019825332823463587
+The Position of Negative Morphemes in Object-Initial Languages (144Y),Order of Negative Morpheme and Verb (143A),1.0,0.004482656565573224
+Postnominal relative clauses (90C),Languages with different word order in negative clauses (144C),0.9999999999999999,0.04534067443406041
+NegSOV Order (144P),Obligatory Double Negation in SOV languages (144N),1.0000000000000002,0.0027924293327009028
+NegSOV Order (144P),Optional Double Negation in SOV languages (144O),1.0,0.015116053801017987
+NegSOV Order (144P),The Position of Negative Morphemes in SOV Languages (144L),0.5326097713295244,2.7145205588895878e-48
+NegSOV Order (144P),"Position of Negative Word With Respect to Subject, Object, and Verb (144A)",0.543101298397427,1.0215127649519177e-63
+NegSOV Order (144P),Position of negative words relative to beginning and end of clause and with respect to adjacency to verb (144B),0.5475395131582699,1.1689958474581156e-27
+Obligatory Double Negation in SOV languages (144N),SOVNeg Order (144S),0.9999999999999999,3.597699381287193e-09
+Obligatory Double Negation in SOV languages (144N),SNegOV Order (144Q),1.0,0.002792429332700914
+Obligatory Double Negation in SOV languages (144N),Reduplication (27A),0.9999999999999999,0.037519814101927174
+Obligatory Double Negation in SOV languages (144N),"Order of Subject, Object and Verb (81A)",0.9999999999999999,1.0148995238869185e-06
+Obligatory Double Negation in SOV languages (144N),Order of Object and Verb (83A),1.0,5.900534408557878e-07
+Obligatory Double Negation in SOV languages (144N),Expression of Pronominal Subjects (101A),0.8459120105718028,0.015343250820824684
+Obligatory Double Negation in SOV languages (144N),Postverbal Negative Morphemes (143F),1.0,1.5997291207917531e-09
+Obligatory Double Negation in SOV languages (144N),Position of negative words relative to beginning and end of clause and with respect to adjacency to verb (144B),1.0,0.016690386889734052
+Obligatory Double Negation in SOV languages (144N),Preverbal Negative Morphemes (143E),1.0,5.900534408557874e-07
+Obligatory Double Negation in SOV languages (144N),Order of Negative Morpheme and Verb (143A),1.0,0.00024350825829271358
+Obligatory Double Negation in SOV languages (144N),Minor morphological means of signaling negation (143G),1.0,5.900534408557874e-07
+SOVNeg Order (144S),Optional Double Negation (143C),1.0,2.2889042903355865e-07
+SOVNeg Order (144S),Optional Double Negation in SOV languages (144O),1.0,0.0002595332144407562
+SOVNeg Order (144S),SNegOV Order (144Q),0.5152085557618794,3.14570283181373e-51
+SOVNeg Order (144S),The Position of Negative Morphemes in SOV Languages (144L),0.5927202421116076,1.3657178610403667e-259
+SOVNeg Order (144S),Zero Marking of A and P Arguments (25B),0.5762478817093599,0.00014046233650182263
+SOVNeg Order (144S),Possessive Classification (59A),0.6297553351910076,4.3427663900472375e-13
+SOVNeg Order (144S),Comparative Constructions (121A),0.6773495001219852,2.7661493456461375e-09
+SOVNeg Order (144S),Postverbal Negative Morphemes (143F),0.9821473490564319,1.1651752251243359e-279
+SOVNeg Order (144S),SVNegO Order (144J),0.7359800721939873,0.043035946898982914
+SOVNeg Order (144S),"Position of Negative Word With Respect to Subject, Object, and Verb (144A)",0.6274570482708559,1.5712391823552588e-269
+SOVNeg Order (144S),SVONeg Order (144K),0.7817359599705717,0.0230139175131066
+SOVNeg Order (144S),Position of negative words relative to beginning and end of clause and with respect to adjacency to verb (144B),0.5340543625069127,4.856857153600474e-28
+SOVNeg Order (144S),The Position of Negative Morphemes in SVO Languages (144D),0.9999999999999999,0.004636605438041725
+SOVNeg Order (144S),Preverbal Negative Morphemes (143E),0.5535123233464724,1.681747575400102e-76
+SOVNeg Order (144S),Order of Negative Morpheme and Verb (143A),0.7186432871304722,0.0
+Numeral Bases (131A),NegSVO Order (144H),0.6112150035466446,0.00038932568051257955
+"Languages with two Dominant Orders of Subject, Object, and Verb (81B)",The Position of Negative Morphemes in Verb-Initial Languages (144T),1.0,4.288761380434154e-06
+"Languages with two Dominant Orders of Subject, Object, and Verb (81B)",Exponence of Tense-Aspect-Mood Inflection (21B),1.0,0.01856613546304325
+"Languages with two Dominant Orders of Subject, Object, and Verb (81B)",Order of Subject and Verb (82A),0.898945761290008,8.565932059563346e-20
+"Languages with two Dominant Orders of Subject, Object, and Verb (81B)",Order of Object and Verb (83A),0.86502939954025,7.605824202773365e-18
+"Languages with two Dominant Orders of Subject, Object, and Verb (81B)",Position of negative words relative to beginning and end of clause and with respect to adjacency to verb (144B),0.5338260372960822,0.0008063205489562503
+Optional Double Negation (143C),Optional Double Negation in SOV languages (144O),1.0,9.548330178733465e-08
+Optional Double Negation (143C),SNegOV Order (144Q),0.957427107756338,0.004532318582244772
+Optional Double Negation (143C),"Order of Subject, Object and Verb (81A)",0.6380522606280032,0.0022974096573218057
+Optional Double Negation (143C),Order of Subject and Verb (82A),0.7035859033850909,0.0006991035773070378
+Optional Double Negation (143C),Order of Object and Verb (83A),0.633080630994351,0.021685372456046674
+Optional Double Negation (143C),Position of Polar Question Particles (92A),0.7230606200494236,0.002332223937796221
+Optional Double Negation (143C),Postverbal Negative Morphemes (143F),1.0,4.472611295104597e-22
+Optional Double Negation (143C),SVNegO Order (144J),0.8561750488572499,3.324433058290725e-06
+Optional Double Negation (143C),"Position of Negative Word With Respect to Subject, Object, and Verb (144A)",0.8393316459780952,3.458245123113422e-10
+Optional Double Negation (143C),SNegVO Order (144I),0.9411239481143203,1.0442249924731244e-10
+Optional Double Negation (143C),SVONeg Order (144K),0.8546590997998841,0.0006497475969023421
+Optional Double Negation (143C),Position of negative words relative to beginning and end of clause and with respect to adjacency to verb (144B),0.6994018129284495,0.00012479093969343884
+Optional Double Negation (143C),Preverbal Negative Morphemes (143E),1.0,4.472611295104661e-22
+Optional Double Negation (143C),Order of Negative Morpheme and Verb (143A),0.9999999999999999,1.1084697268800306e-08
+Optional Double Negation (143C),NegSVO Order (144H),0.813453347897929,0.0024898094675567207
+Optional Double Negation (143C),Minor morphological means of signaling negation (143G),1.0,2.088822159084675e-15
+Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object (144W),The Position of Negative Morphemes in Verb-Initial Languages (144T),0.7429641557598443,3.0650770790461e-37
+Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object (144W),Possessive Classification (59A),0.5563486402641868,0.029609127796894563
+Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object (144W),Postverbal Negative Morphemes (143F),0.8438339942770358,1.1655487065257662e-40
+Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object (144W),"Position of Negative Word With Respect to Subject, Object, and Verb (144A)",0.6192764631390322,1.8749008575397027e-37
+Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object (144W),SNegVO Order (144I),1.0,0.007383160505359769
+Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object (144W),SVONeg Order (144K),1.0,0.0003354626279025119
+Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object (144W),Position of negative words relative to beginning and end of clause and with respect to adjacency to verb (144B),0.7888146598468856,4.096696188723513e-30
+Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object (144W),Order of Negative Morpheme and Verb (143A),0.6462995983262685,7.899720957223135e-47
+Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object (144W),Number of Possessive Nouns (58B),1.0,8.315287191035665e-07
+Optional Double Negation in SOV languages (144O),SNegOV Order (144Q),0.9999999999999999,0.015116053801018109
+Optional Double Negation in SOV languages (144O),Postverbal Negative Morphemes (143F),1.0,0.01441210031344789
+Optional Double Negation in SOV languages (144O),"Position of Negative Word With Respect to Subject, Object, and Verb (144A)",1.0,0.01441210031344779
+Optional Double Negation in SOV languages (144O),Position of negative words relative to beginning and end of clause and with respect to adjacency to verb (144B),1.0,0.04582230688865106
+Optional Double Negation in SOV languages (144O),Preverbal Negative Morphemes (143E),1.0,0.01441210031344791
+SNegOV Order (144Q),The Position of Negative Morphemes in SOV Languages (144L),0.5967886241895014,1.909704943442134e-65
+SNegOV Order (144Q),Zero Marking of A and P Arguments (25B),0.5666483807216447,2.014031555577009e-06
+SNegOV Order (144Q),Possessive Classification (59A),0.5839329354647932,6.651644865843812e-15
+SNegOV Order (144Q),"Position of Negative Word With Respect to Subject, Object, and Verb (144A)",0.6140381119436975,1.5854461538101147e-84
+SNegOV Order (144Q),SVONeg Order (144K),0.7107800878846658,0.016445540980553838
+SNegOV Order (144Q),Position of negative words relative to beginning and end of clause and with respect to adjacency to verb (144B),0.6004049535560213,3.2016718446283157e-34
+SNegOV Order (144Q),The Position of Negative Morphemes in SVO Languages (144D),1.0,0.0024787521766663568
+SNegOV Order (144Q),Order of Negative Morpheme and Verb (143A),0.5084087832997676,3.933030555113197e-45
+The Position of Negative Morphemes in SOV Languages (144L),Languages with different word order in negative clauses (144C),0.9999999999999999,0.03093887750870293
+The Position of Negative Morphemes in SOV Languages (144L),"Order of Subject, Object and Verb (81A)",0.7959532316068375,1.389034724826377e-107
+The Position of Negative Morphemes in SOV Languages (144L),Order of Object and Verb (83A),0.7163232655828851,1.231208113528184e-95
+The Position of Negative Morphemes in SOV Languages (144L),Postverbal Negative Morphemes (143F),0.7538493930009851,3.331194182952973e-162
+The Position of Negative Morphemes in SOV Languages (144L),SVNegO Order (144J),0.7416198487095663,0.02645874926109314
+The Position of Negative Morphemes in SOV Languages (144L),"Position of Negative Word With Respect to Subject, Object, and Verb (144A)",0.9713478229212223,0.0
+The Position of Negative Morphemes in SOV Languages (144L),SVONeg Order (144K),0.7270291799999697,0.008162628805711728
+The Position of Negative Morphemes in SOV Languages (144L),Position of negative words relative to beginning and end of clause and with respect to adjacency to verb (144B),0.8183514830516201,7.594770746881341e-76
+The Position of Negative Morphemes in SOV Languages (144L),The Position of Negative Morphemes in SVO Languages (144D),1.0,1.24729307865535e-05
+The Position of Negative Morphemes in SOV Languages (144L),Preverbal Negative Morphemes (143E),0.7322780380296092,4.829145597309345e-151
+The Position of Negative Morphemes in SOV Languages (144L),Order of Negative Morpheme and Verb (143A),0.6571676219601243,0.0
+Languages with different word order in negative clauses (144C),"Order of Subject, Object and Verb (81A)",0.9999999999999999,0.00019512802123236987
+Languages with different word order in negative clauses (144C),Order of Subject and Verb (82A),1.0,0.005425745355836205
+Languages with different word order in negative clauses (144C),Order of Object and Verb (83A),1.0,0.005425745355836205
+Languages with different word order in negative clauses (144C),Order of Demonstrative and Noun (88A),0.8755950357709131,0.025970776397808898
+Languages with different word order in negative clauses (144C),Polar Questions (116A),0.8965746783431674,0.049136360406885474
+Languages with different word order in negative clauses (144C),Postverbal Negative Morphemes (143F),1.0,0.005425745355836203
+Languages with different word order in negative clauses (144C),"Position of Negative Word With Respect to Subject, Object, and Verb (144A)",1.0,1.3916082668299946e-08
+Languages with different word order in negative clauses (144C),SNegVO Order (144I),1.0,0.007295055724436124
+Languages with different word order in negative clauses (144C),SVONeg Order (144K),1.0,0.0004742485461287347
+Languages with different word order in negative clauses (144C),Position of negative words relative to beginning and end of clause and with respect to adjacency to verb (144B),0.9999999999999999,3.048877132541606e-05
+Languages with different word order in negative clauses (144C),The Position of Negative Morphemes in SVO Languages (144D),1.0,2.433571871841022e-06
+Languages with different word order in negative clauses (144C),Preverbal Negative Morphemes (143E),1.0,0.0010088876411212652
+Languages with different word order in negative clauses (144C),Order of Negative Morpheme and Verb (143A),1.0,7.772830894402235e-06
+Languages with different word order in negative clauses (144C),NegSVO Order (144H),1.0,0.0004742485461287347
+The Position of Negative Morphemes in Verb-Initial Languages (144T),Exponence of Tense-Aspect-Mood Inflection (21B),0.8897565210026093,0.007157394751472961
+The Position of Negative Morphemes in Verb-Initial Languages (144T),Person Marking on Adpositions (48A),0.6299701647101301,0.02332330853619145
+The Position of Negative Morphemes in Verb-Initial Languages (144T),Possessive Classification (59A),0.8522789688037333,0.00842760606879568
+The Position of Negative Morphemes in Verb-Initial Languages (144T),"Order of Subject, Object and Verb (81A)",0.96491534780521,7.45727315460148e-49
+The Position of Negative Morphemes in Verb-Initial Languages (144T),Order of Subject and Verb (82A),0.9194272730246962,7.09858750930131e-32
+The Position of Negative Morphemes in Verb-Initial Languages (144T),Comparative Constructions (121A),0.8251583141350777,0.02858565301472303
+The Position of Negative Morphemes in Verb-Initial Languages (144T),Reason Clauses (127A),0.8484735749611814,0.022603203956923563
+The Position of Negative Morphemes in Verb-Initial Languages (144T),M-T Pronouns (136A),1.0,0.0039399900767472205
+The Position of Negative Morphemes in Verb-Initial Languages (144T),N-M Pronouns (137A),0.8100925873009827,0.03416500765558558
+The Position of Negative Morphemes in Verb-Initial Languages (144T),Postverbal Negative Morphemes (143F),0.7633468495372288,6.835538010742375e-18
+The Position of Negative Morphemes in Verb-Initial Languages (144T),SVNegO Order (144J),1.0,0.02511636074685276
+The Position of Negative Morphemes in Verb-Initial Languages (144T),"Position of Negative Word With Respect to Subject, Object, and Verb (144A)",0.9780192938436515,7.900860787008987e-163
+The Position of Negative Morphemes in Verb-Initial Languages (144T),SNegVO Order (144I),1.0,0.00176780475362363
+The Position of Negative Morphemes in Verb-Initial Languages (144T),SVONeg Order (144K),1.0,0.004006044655127803
+The Position of Negative Morphemes in Verb-Initial Languages (144T),Position of negative words relative to beginning and end of clause and with respect to adjacency to verb (144B),0.893968862919091,1.8589306556401028e-28
+The Position of Negative Morphemes in Verb-Initial Languages (144T),The Position of Negative Morphemes in SVO Languages (144D),1.0,0.005433019172813195
+The Position of Negative Morphemes in Verb-Initial Languages (144T),Preverbal Negative Morphemes (143E),0.8641622228852994,1.3194329226492763e-38
+The Position of Negative Morphemes in Verb-Initial Languages (144T),Order of Negative Morpheme and Verb (143A),1.0,8.241063414005522e-136
+The Position of Negative Morphemes in Verb-Initial Languages (144T),NegSVO Order (144H),0.9999999999999999,0.03478778050624187
+Nasal Vowels in West Africa (10B),SVNegO Order (144J),0.8164965809277261,0.005532049697700143
+Cultural Categories of Languages with Identity of 'Finger' and 'Hand' (130B),Person Marking on Adpositions (48A),0.7778830508606847,0.0007985317727998437
+Cultural Categories of Languages with Identity of 'Finger' and 'Hand' (130B),Overlap between Situational and Epistemic Modal Marking (76A),0.8017837257372732,0.04018402645107363
+Cultural Categories of Languages with Identity of 'Finger' and 'Hand' (130B),Alignment of Verbal Person Marking (100A),0.6428571428571429,0.046816845949685965
+Asymmetrical Case-Marking (50A),Comparative Constructions (121A),0.5019196137898223,6.91344566189931e-07
+Overlap between Situational and Epistemic Modal Marking (76A),Comparative Constructions (121A),0.5244044240850758,8.968278511753353e-07
+"Order of Subject, Object and Verb (81A)",Order of Subject and Verb (82A),0.7523740794344848,0.0
+"Order of Subject, Object and Verb (81A)",Order of Object and Verb (83A),0.8421483405929229,0.0
+"Order of Subject, Object and Verb (81A)","Position of Negative Word With Respect to Subject, Object, and Verb (144A)",0.6904652833469893,0.0
+"Order of Subject, Object and Verb (81A)",The Position of Negative Morphemes in SVO Languages (144D),0.7113629702499306,1.7280688226496243e-120
+Order of Subject and Verb (82A),"Position of Negative Word With Respect to Subject, Object, and Verb (144A)",0.5232211670490958,3.4676968609100135e-111
+Alignment of Verbal Person Marking (100A),Verbal Person Marking (102A),0.5505992969001727,1.4585743033820026e-84
+Verbal Person Marking (102A),The Position of Negative Morphemes in SVO Languages (144D),0.5714013820250056,2.576459540754098e-13
+Passive Constructions (107A),Comparative Constructions (121A),0.5482039243135767,8.889564851170476e-06
+Comparative Constructions (121A),NegSVO Order (144H),0.5065172916730962,0.004457287404626183
+'When' Clauses (126A),Reason Clauses (127A),0.6373603896008412,5.829498130302941e-27
+'When' Clauses (126A),SVNegO Order (144J),0.5050096258708563,0.0008268004416591331
+'When' Clauses (126A),The Position of Negative Morphemes in SVO Languages (144D),0.5148205642840801,0.026749811015435374
+Utterance Complement Clauses (128A),SVNegO Order (144J),0.5585448975663484,0.00016730931263459986
+M-T Pronouns (136A),M in First Person Singular (136B),0.70659345496195,4.040091672410335e-25
+N-M Pronouns (137A),M in Second Person Singular (137B),0.5863019699779287,1.6033121461435536e-17
+Postverbal Negative Morphemes (143F),SVNegO Order (144J),0.6098649003000429,3.2552830718531826e-94
+Postverbal Negative Morphemes (143F),"Position of Negative Word With Respect to Subject, Object, and Verb (144A)",0.5988948257813128,2.5522123677538797e-228
+Postverbal Negative Morphemes (143F),SNegVO Order (144I),0.536861812570569,2.4730516214825234e-64
+Postverbal Negative Morphemes (143F),SVONeg Order (144K),0.5147345680991088,6.810596219691597e-71
+Postverbal Negative Morphemes (143F),Position of negative words relative to beginning and end of clause and with respect to adjacency to verb (144B),0.5695042135798236,1.3512482245848334e-116
+Postverbal Negative Morphemes (143F),The Position of Negative Morphemes in SVO Languages (144D),0.6487888833368303,1.0072939932249226e-96
+Postverbal Negative Morphemes (143F),Order of Negative Morpheme and Verb (143A),0.8805154221181165,0.0
+SVNegO Order (144J),Position of negative words relative to beginning and end of clause and with respect to adjacency to verb (144B),0.5752528410114262,2.643879343593373e-47
+SVNegO Order (144J),The Position of Negative Morphemes in SVO Languages (144D),0.5199425174716081,2.8611585745994516e-105
+SVNegO Order (144J),Order of Negative Morpheme and Verb (143A),0.5817934536730606,8.227633456804289e-148
+"Position of Negative Word With Respect to Subject, Object, and Verb (144A)",SNegVO Order (144I),0.6028370176417351,1.264991132002637e-187
+"Position of Negative Word With Respect to Subject, Object, and Verb (144A)",SVONeg Order (144K),0.7400817657483751,3.0155856841217197e-139
+"Position of Negative Word With Respect to Subject, Object, and Verb (144A)",Position of negative words relative to beginning and end of clause and with respect to adjacency to verb (144B),0.8674235213160659,0.0
+"Position of Negative Word With Respect to Subject, Object, and Verb (144A)",The Position of Negative Morphemes in SVO Languages (144D),0.9608078053885307,0.0
+"Position of Negative Word With Respect to Subject, Object, and Verb (144A)",Preverbal Negative Morphemes (143E),0.5831626700173311,1.424507108236308e-214
+"Position of Negative Word With Respect to Subject, Object, and Verb (144A)",Order of Negative Morpheme and Verb (143A),0.5647001939684217,0.0
+SNegVO Order (144I),SVONeg Order (144K),0.6106859026224049,2.063804596692872e-84
+SNegVO Order (144I),Position of negative words relative to beginning and end of clause and with respect to adjacency to verb (144B),0.6193347201950886,1.4102102322853786e-54
+SNegVO Order (144I),The Position of Negative Morphemes in SVO Languages (144D),0.6540208249286354,4.305220517383634e-205
+SNegVO Order (144I),Preverbal Negative Morphemes (143E),0.8165044641247968,1.1086726292031525e-164
+SNegVO Order (144I),Order of Negative Morpheme and Verb (143A),0.6685599901653586,5.814134296337024e-225
+SVONeg Order (144K),Position of negative words relative to beginning and end of clause and with respect to adjacency to verb (144B),0.5584777128216348,4.4837449118434145e-50
+SVONeg Order (144K),The Position of Negative Morphemes in SVO Languages (144D),0.7267803168301025,1.7993119799682935e-123
+SVONeg Order (144K),Order of Negative Morpheme and Verb (143A),0.7315135721737634,2.6056519874274067e-129
+Position of negative words relative to beginning and end of clause and with respect to adjacency to verb (144B),The Position of Negative Morphemes in SVO Languages (144D),0.7752433234120134,1.123470080270172e-87
+Position of negative words relative to beginning and end of clause and with respect to adjacency to verb (144B),Preverbal Negative Morphemes (143E),0.5268879959927533,1.6982352914705928e-98
+Position of negative words relative to beginning and end of clause and with respect to adjacency to verb (144B),NegSVO Order (144H),0.5323739594461453,2.5756302517609922e-45
+The Position of Negative Morphemes in SVO Languages (144D),Preverbal Negative Morphemes (143E),0.7447061539874882,1.192833506912987e-134
+The Position of Negative Morphemes in SVO Languages (144D),Order of Negative Morpheme and Verb (143A),0.7507799590644,0.0
+Preverbal Negative Morphemes (143E),Order of Negative Morpheme and Verb (143A),0.8575690504018538,0.0
+Order of Negative Morpheme and Verb (143A),Minor morphological means of signaling negation (143G),0.5165377944788565,9.32339018594065e-191
