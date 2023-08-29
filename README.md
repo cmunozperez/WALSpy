@@ -36,7 +36,7 @@ Besides these "basic" functions, there are three that should be considered exper
 
 | Function |	Description |	Example |
 | -------- | ------- | ------- |
-| get_correlation |	Checks whether there is a linear correlation between two linguistic features |	`get_correlation('83A', '85A')` |
+| get_correlation |	Checks whether there is a correlation between to two linguistic features; it returns a Cramer's V coefficient and a p-value |	`get_correlation('83A', '85A')` |
 | search_correlations |	Searches for pairs of features in WALS in linear correlation |	`search_correlations()` |
 | predict_value |	Predicts the most likely value for a linguistic feature based on a set of values for other features |	`predict_value('85A', ['81A-3', '86A-2'])` |
 
